@@ -1,6 +1,4 @@
-## Computer_Vision_ML_Project
-
-# Machine Learning project in Computer Vision Framework
+# Machine Learning Project in Computer Vision Framework
  
  The goal of this project is to train a learning model to determine the category of the texture of a given surface image.
  
